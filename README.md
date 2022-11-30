@@ -1,5 +1,5 @@
 # Prototype-SN
-The prototype used for the Sierra Nevada Mountains
+The Earthwise SDSS prototype used for the Sierra Nevada Mountains. (Note that it was originally called LandAdvisor.)
 
 ArcGIS 10.x is required for this tool. ArcPro may work. For some tips in getting this model running on your machine, see the documents in this google drive folder: https://drive.google.com/drive/folders/0B6x6qJKMGdJhYmZ0YnJQUTJza2c?usp=sharing
 
